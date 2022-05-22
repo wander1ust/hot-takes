@@ -1,0 +1,67 @@
+.poll {
+    border: 0.5px dashed #fffdfd;
+    padding: 0 2em;
+    border-radius: 0.2em;
+    background-color: #0d0c11;
+    background-color: #011324;  
+    border: 1px solid #2f8ee1;
+}
+
+.statement {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 2em;    
+}
+
+.circle {
+    border: 4px solid black;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+  }
+  .wave {
+    position: relative;
+    right: 30%;
+    width: 160%;
+    height: 160%;
+    transform-origin: 50% 50%;
+    border-radius: 78% 56%;
+    animation: spin 5s infinite linear;
+  }
+  
+  .percentage {
+    position: absolute;
+    top: 75px;
+    width: 100%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 70px;
+    font-weight: 600;
+  }
+  
+  .votes {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 20px;
+  }
+  
+  .token {
+      text-align: center;
+      color: white;
+      font-size: 30px;
+      font-weight: bold;
+      margin-bottom: 20px;
+  
+  }
+  
+  @keyframes spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
