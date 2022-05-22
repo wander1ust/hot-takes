@@ -25,17 +25,22 @@ Configure the **`.env.example`** files in project root dir + ./src/smartcontract
 
 <p></p><br>
 
+## 📹 Video
+<a href="src/assets/demos/login-demo.mp4" target="_blank"><img src='src/assets/images/video-thumbnail.png'></a>
+
+<p></p><br>
+
 ## 🔗 Links
-Smart contract deployed on Polygon Testnet:
+Smart contract deployed on Polygon Testnet:<br>
 https://mumbai.polygonscan.com/address/0xe91c69b3D09D6abF839Ce34F36Af2c3e2EE3A730 <br>
 
-Unstoppable test domain transaction:
+Unstoppable test domain transaction:<br>
 https://mumbai.polygonscan.com/tx/0x5c43dbc9d67d77250893cb284ba8687ba4f2f37439958e93f201d372bb49e443
 
 <br>
 
 ## 📧 Contact
-<a href='https://llclick.com/67tztwf0' target='_blank'>Contact Info</a>
+<a href='https://llclick.com/67tztwf0' target='_blank'>Contact Information</a>
 
 <p></p><br>	
 
@@ -46,5 +51,5 @@ https://mumbai.polygonscan.com/tx/0x5c43dbc9d67d77250893cb284ba8687ba4f2f3743995
 
 <p></p><br>
 
-<div align="center"><a href="https://llclick.com/060f5fry/git-readme-hot-takes" target="_blank"><img alt="contact" src="public/assets/images/btn/contact.png" width="150px"/></a></div>
+<div align="center"><a href="https://llclick.com/060f5fry/git-readme-hot-takes" target="_blank"><img alt="contact" src="src/assets/images/contact.png" width="150px"/></a></div>
 
