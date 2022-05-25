@@ -1,0 +1,24 @@
+describe("PublicPoll", function () {
+  it("Should create a new poll", async function () {
+    const Poll = await ethers.getContractFactory("PublicPoll");
+    const poll = await Poll.deploy([]);
+    await poll.deployed();
+    
+    // ignores initialized param on deploy - why?
+    // expect (await poll.tickersArray.length).to.equal(0); 
+    // expect (await poll.tickersArray).to.have.lengthOf(0);
+    
+    expect (await poll.getTickers()).to.have.lengthOf(0);
+
+    const addPollTx = await poll.addTicker('poll1');
+
+    // wait until the transaction is mined
+    await addPollTx.wait();
+
+    expect (await poll.getTickers()).to.have.lengthOf(1);    
+    // expect (await poll.tickersArray.length).to.equal(1); // length is 0 - why?
+    // expect (await poll.tickersArray).to.have.lengthOf(1);
+
+    expect ((await poll.getTickers())[0].exists).to.equal(true); // undefined - why?
+  });
+});

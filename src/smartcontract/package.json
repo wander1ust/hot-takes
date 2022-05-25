@@ -4,5 +4,8 @@
     "@nomiclabs/hardhat-etherscan": "^3.0.3",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
     "dotenv": "^16.0.1"
+  },
+  "dependencies": {
+    "web3": "^1.7.3"
   }
 }
