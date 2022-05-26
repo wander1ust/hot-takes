@@ -4,7 +4,7 @@ const hre = require("hardhat");
 async function main() {
   // Get the contract to deploy
   const PublicPoll = await hre.ethers.getContractFactory("PublicPoll");
-  const publicpoll = await PublicPoll.deploy();
+  const publicpoll = await PublicPoll.deploy([]);
 
   await publicpoll.deployed();
 
