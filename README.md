@@ -12,27 +12,85 @@ Configure the **`.env.example`** files in project root dir + ./src/smartcontract
 
 <br>
 
+## About the project
+> See what's sizzling <strong>♨️</strong>. Can you take the heat? <strong>⽕🔥 ~ 🌶 🥵</strong>
+
+Controversial opinions up for debate. Tamper-proof polls with results recorded on the public ledger. <br>Cast a vote on existing polls. Or post a hot take and gather insights on public sentiment.
+
+<br>
+
+## Video Demo
+<a href="https://rebrand.ly/dy78we" target="_blank"><img src='src/assets/images/video-thumbnail.png' width='600px'></a>
+
+<br>
+
 ## GIF Demos
-<img src='./src/assets/demos/1.gif' alt='polls gif' height='500'/><br>
+<img src='./src/assets/demos/1.gif' alt='polls gif' width='500'/><br>
 
 #### 🦊 Metamask Connect (with Moralis)
-<img src='./src/assets/demos/metamask-connect.gif' alt='wallet connect gif' height='500'/><br>
+<img src='./src/assets/demos/metamask-connect.gif' alt='wallet connect gif' width='500'/><br>
 
 #### *️⃣ Login with Unstoppable Domains
-<img src='./src/assets/demos/ud-login.gif' alt='unstoppable login gif' height='500'/>
+<img src='./src/assets/demos/ud-login.gif' alt='unstoppable login gif' width='500'/>
 <p></p><br>
-"For Login with Unstoppable integrations, users must use Polygon Mainnet or Ethereum Mainnet as the network for the domain." [<a href='https://docs.unstoppabledomains.com/login-with-unstoppable/login-integration-guides/login-with-popup/' target='_blank'><strong>source</strong></a>]. Free Polygon test domain doesn't work?
+"For Login with Unstoppable integrations, users must use Polygon Mainnet or Ethereum Mainnet as the network for the domain." [<a href='https://docs.unstoppabledomains.com/login-with-unstoppable/login-integration-guides/login-with-popup/' target='_blank'><strong>source</strong></a>]. Free Polygon test domain doesn't work?<br>
+
+#### 🗳 Vote and Debate
+
+<table width='300'>
+    <tr>
+        <td width='250' align='center'> <img src='./src/assets/demos/vote.gif' alt='voting gif' height='300'/> </td>
+        <td width='300'> <img src='./src/assets/demos/comment.gif' alt='commenting gif' height='300'/> </td>
+        </tr>
+</table>
+
+#### 🔐 Moralis Connected Server
+<img src='./src/assets/demos/moralis-server.png' alt='moralis server' height='200'/>
+
+#### ❓Question
+If administrator, moderator, or developer can edit and delete all incoming requests + user data in Moralis backend server, doesn't that make the app centralized since it is under the control/influence of a single developer/entity? User data is not secured in a trustless storage if it can be manipulated?
 
 <p></p><br>
 
-## 📹 Video
-<a href="src/assets/demos/login-demo.mp4" target="_blank"><img src='src/assets/images/video-thumbnail.png'></a>
+### Challenges
+#### Learning Web3 be like:
+<table>
+    <tr>
+        <th width='10' align='left'> <img src='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' alt='man pushing rock up mountain cartoon gif 1' height='150'/> </th>
+        <th width='10' align='left'> <img src='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' alt='man pushing rock up mountain cartoon gif 2' height='150'/> </th>
+        <th width='50' align='left'> <img src='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' alt='man pushing rock up mountain cartoon gif 2' height='150'/> </th>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width='300px' align='left'>
+            Source: GIFs [<a href='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' target='_blank'>1</a>][<a href='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' target='_blank'>2</a>][<a href='https://media.giphy.com/media/PWfHC8ogZpWcE/giphy.gif' target='_blank'>3</a>][<a href='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' target='_blank'>4</a>]
+        </td>
+    </tr>
+</table>
+
+#### Before vs After (Aging 10 Years )
+<table>
+    <tr>
+        <th width='5' align='left'> <img src='src/assets/images/snail-1.png' alt='young smiling fast snail cartoon' height='100'/> </th>
+        <th width='50' align='left'> <img src='src/assets/images/snail-2.png' alt='older slower snail cartoon' height='100'/> </th>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td width='300px' align='left'>
+            Source: GIFs [<a href='https://www.clipartbay.com/clipart/12838' target='_blank'>1</a>][<a href='https://www.clipartbay.com/clipart/12846' target='_blank'>2</a>]
+        </td>
+    </tr>
+</table>
 
 <p></p><br>
 
 ## 🔗 Links
 Smart contract deployed on Polygon Testnet:<br>
-https://mumbai.polygonscan.com/address/0xe91c69b3D09D6abF839Ce34F36Af2c3e2EE3A730 <br>
+https://mumbai.polygonscan.com/address/0xfC6b9abf3B8139edeEd5CF94162ffA7f72898c8d<br>
 
 Unstoppable test domain transaction:<br>
 https://mumbai.polygonscan.com/tx/0x5c43dbc9d67d77250893cb284ba8687ba4f2f37439958e93f201d372bb49e443
