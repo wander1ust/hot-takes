@@ -12,10 +12,12 @@ Configure the **`.env.example`** files in project root dir + ./src/smartcontract
 
 <br>
 
-## About the project
-> See what's sizzling <strong>♨️</strong>. Can you take the heat? <strong>⽕🔥 ~ 🌶 🥵</strong>
+## One-Liner
+> See what's sizzling ♨️. Can you take the heat? ⽕🔥 ~ 🌶 🥵
+<br>
 
-Controversial opinions up for debate. Tamper-proof polls with results recorded on the public ledger. <br>Cast a vote on existing polls. Or post a hot take and gather insights on public sentiment.
+## About the project
+Controversial opinions up for debate. Tamper-proof polls with results recorded on the public ledger. Cast a vote on existing polls. Or post a hot take and gather insights on public sentiment.
 
 <br>
 
@@ -35,53 +37,48 @@ Controversial opinions up for debate. Tamper-proof polls with results recorded o
 <p></p><br>
 "For Login with Unstoppable integrations, users must use Polygon Mainnet or Ethereum Mainnet as the network for the domain." [<a href='https://docs.unstoppabledomains.com/login-with-unstoppable/login-integration-guides/login-with-popup/' target='_blank'><strong>source</strong></a>]. Free Polygon test domain doesn't work?<br>
 
-#### 🗳 Vote and Debate
+#### 🗳 Vote, Comment, Debate
 
-<table width='300'>
+<img src='./src/assets/demos/vote.gif' alt='voting gif' height='300'/><br>
+<img src='./src/assets/demos/comment.gif' alt='commenting gif' height='300'/>
+
+<!-- <table width='300'>
     <tr>
         <td width='250' align='center'> <img src='./src/assets/demos/vote.gif' alt='voting gif' height='300'/> </td>
         <td width='300'> <img src='./src/assets/demos/comment.gif' alt='commenting gif' height='300'/> </td>
         </tr>
-</table>
+</table> -->
 
 #### 🔐 Moralis Connected Server
 <img src='./src/assets/demos/moralis-server.png' alt='moralis server' height='200'/>
 
 #### ❓Question
-If administrator, moderator, or developer can edit and delete all incoming requests + user data in Moralis backend server, doesn't that make the app centralized since it is under the control/influence of a single developer/entity? User data is not secured in a trustless storage if it can be manipulated?
+If administrator, moderator, or developer can edit and delete user data + requests in Moralis backend server, does this not make the app centralized under the control/influence of a single developer/entity? User data is not secured in a trustless storage if it can be manipulated?
 
 <p></p><br>
 
-### Challenges
-#### Learning Web3 be like:
+## Challenges
+### Learning Web3 blockchain be like:
 <table>
     <tr>
-        <th width='10' align='left'> <img src='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' alt='man pushing rock up mountain cartoon gif 1' height='150'/> </th>
-        <th width='10' align='left'> <img src='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' alt='man pushing rock up mountain cartoon gif 2' height='150'/> </th>
-        <th width='50' align='left'> <img src='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' alt='man pushing rock up mountain cartoon gif 2' height='150'/> </th>
+        <th width='300' align='left'> <img src='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' alt='man pushing rock up mountain cartoon gif 1' width='300'/> </th>
+        <th width='300' align='left'> <img src='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' alt='man pushing rock up mountain cartoon gif 2' width='300'/> </th>
+        <th width='300' align='left'> <img src='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' alt='man pushing rock up mountain cartoon gif 2' width='300' height='205'/> </th>
+    </tr>
+</table>
+
+### Before & After
+<table>
+    <tr>
+        <th width='200' align='left'> <img src='src/assets/images/snail-1.png' alt='youthful, smiling, fast snail cartoon' width='130'/> </th>
+        <th width='200' align='left'> <img src='src/assets/images/snail-2.png' alt='aging, tired, slow snail cartoon' width='200'/> </th>
     </tr>
 </table>
 
 <table>
     <tr>
         <td width='300px' align='left'>
-            Source: GIFs [<a href='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' target='_blank'>1</a>][<a href='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' target='_blank'>2</a>][<a href='https://media.giphy.com/media/PWfHC8ogZpWcE/giphy.gif' target='_blank'>3</a>][<a href='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' target='_blank'>4</a>]
-        </td>
-    </tr>
-</table>
-
-#### Before vs After (Aging 10 Years )
-<table>
-    <tr>
-        <th width='5' align='left'> <img src='src/assets/images/snail-1.png' alt='young smiling fast snail cartoon' height='100'/> </th>
-        <th width='50' align='left'> <img src='src/assets/images/snail-2.png' alt='older slower snail cartoon' height='100'/> </th>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td width='300px' align='left'>
-            Source: GIFs [<a href='https://www.clipartbay.com/clipart/12838' target='_blank'>1</a>][<a href='https://www.clipartbay.com/clipart/12846' target='_blank'>2</a>]
+            Source: GIFs [<a href='https://cdn.dribbble.com/users/221008/screenshots/1685845/sisyphus.gif' target='_blank'>1</a>][<a href='https://cdn.dribbble.com/users/1554124/screenshots/4125105/6.sisyphus_small.gif' target='_blank'>2</a>][<a href='https://media.giphy.com/media/PWfHC8ogZpWcE/giphy.gif' target='_blank'>3</a>][<a href='https://i.makeagif.com/media/10-07-2015/hiIhDx.gif' target='_blank'>4</a>][<a href='https://www.clipartbay.com/clipart/12838' target='_blank'>5</a>][<a href='https://www.clipartbay.com/clipart/12846' target='_blank'>6</a>]
         </td>
     </tr>
 </table>
