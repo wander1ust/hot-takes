@@ -13,7 +13,7 @@ Configure the **`.env.example`** files in project root dir + ./src/smartcontract
 <br>
 
 ## One-Liner
-> See what's sizzling ♨️. Can you take the heat? ⽕🔥 ~ 🌶 🥵
+> See what's sizzling ♨️. How much heat can you take? ⽕🔥 ~ 🌶 🥵
 <br>
 
 ## About the project
